@@ -1,4 +1,4 @@
-# Flappy Bird Clone
+# Flappy Bird
 
 ![Flappy Bird](path_to_image.png)
 
