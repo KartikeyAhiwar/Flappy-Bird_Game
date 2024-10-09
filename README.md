@@ -1,7 +1,5 @@
 # Flappy Bird
 
-![Flappy Bird]("C:\\Python Develop\\Python Dev\\Cognitive Computing & Learning Machines\\Game with Python\\Flappy-Bird game\\gallery\\sprites\\p.jpeg")
-
 This project is a **Flappy Bird Clone** built using **Python** and **Pygame**. It is a fun, interactive game where the player controls a bird that must fly through a series of obstacles without hitting them. The project is a great way to learn about game development, physics-based gameplay, and working with the Pygame library.
 
 ---
